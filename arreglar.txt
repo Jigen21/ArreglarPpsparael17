@@ -1,0 +1,27 @@
+para la semana que viene
+
+	terminar pushs-->sumar muchas notas
+	arreglar flechas(axel)
+
+	verificar cantidad de comensales para mesas para validar que una mesa con tantos comensales no pueda ser cargada
+	con mas de los posibles
+
+	circuito de pedidos,que el cocinero le avise al mozo que el pedido esta listo y que sea este quien coloque el estado
+	entregado al pedido
+	
+	el delivery recibe todos los pedidos terminados y puede chatear con los diferentes clientes,el cliente	solo
+	puede chatear con ese delivery nomas
+
+	verificar mail
+
+	si el cliente pide desde la casa,no se el debe mostrar el qr de ingreso,y sino si se le muestra para que pueda
+	hacer el pedido con delivery
+
+	cuando el cliente ve las encuestas de antiguos usuarios,ponerle un spinner en modo de espera y un mensaje para
+	que sepa que esta esperando a que se le asigne una mesa
+
+	cuando escanea la mesa y para ver el estado del pedido solo lo hace una sola vez y se le actualiza
+
+	gps openstreammap y yandex para los mapas (laboratorio sirve tambien)
+
+	arreglar la vista despues de que paga
